@@ -142,7 +142,7 @@ public class ATM {
                         break;
 
                     case 6:
-                        System.out.println("Thank you for using this ATM.");
+                        System.out.println("Thank using this ATM.");
                         continueRunning = false;
                         break;
 
